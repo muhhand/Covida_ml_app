@@ -2,6 +2,8 @@
 
 A Flutter project integrated with machince learning model using Xception alogorithm to analyze x-ray photo to decide Covid or Normal.
 
+![Screenshot](Covida.jpg)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
