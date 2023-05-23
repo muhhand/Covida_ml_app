@@ -1,6 +1,6 @@
-# tflite_test
+# Covida
 
-A new Flutter project.
+A Flutter project integrated with machince learning model using Xception alogorithm to analyze x-ray photo to decide Covid or Normal.
 
 ## Getting Started
 
